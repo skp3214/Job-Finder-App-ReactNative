@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "Job-App-ReactNative",
-    "slug": "Job-App-ReactNative"
+    "slug": "Job-App-ReactNative",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "af5fa473-30cb-4149-92ba-f68a37c42f93"
+      }
+    },
+    "android": {
+      "package": "com.skp3214.JobAppReactNative"
+    }
   }
 }
